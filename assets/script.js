@@ -27,7 +27,3 @@ listTopics();
 console.log('Which topic should we study first?');
 selectTopic();
 
-// var shapes = ["triangle", "square", "pentagon", "circle"];
-// for(var x = 0; x < shapes.length; x++) {
-//  console.log(shapes[x]);
-// }
